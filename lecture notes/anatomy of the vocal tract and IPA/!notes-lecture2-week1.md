@@ -378,7 +378,7 @@ lax vowels:
 
 ### back vowels examples
 
-- [u] high, rounded, tense “f**ood**”
+- [u] high, rounded, tense “f**oo**d”
 - [ʊ] high, rounded, lax “p**u**t”
 - [o] mid, rounded, tense “perr**o**” (in Spanish)
 - [ɔ] mid, rounded, lax “**o**range”
