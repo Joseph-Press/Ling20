@@ -1,3 +1,4 @@
+# week 1 lecture 3 notes
 - [week 1 lecture 3 notes](#week-1-lecture-3-notes)
 - [syllables](#syllables)
   - [syllables are fixed](#syllables-are-fixed)
@@ -14,8 +15,6 @@
     - [most complex onsets](#most-complex-onsets)
   - [Phonotactics and syllabification](#phonotactics-and-syllabification)
   - [syllabification algorithm](#syllabification-algorithm)
-
-# week 1 lecture 3 notes
 
 # syllables
 - when we say words like `understanding` we dont just pronounce them as a simple string of sounds
