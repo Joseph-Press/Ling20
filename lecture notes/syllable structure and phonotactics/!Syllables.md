@@ -1,3 +1,19 @@
+- [week 1 lecture 3 notes](#week-1-lecture-3-notes)
+- [syllables](#syllables)
+  - [syllables are fixed](#syllables-are-fixed)
+  - [syllables are rule governed](#syllables-are-rule-governed)
+      - [example](#example)
+      - [conclusion](#conclusion)
+  - [structure of syllables](#structure-of-syllables)
+    - [structure](#structure)
+    - [examples](#examples)
+  - [rhymes](#rhymes)
+  - [syllabification trees](#syllabification-trees)
+  - [building syllables](#building-syllables)
+    - [phonotactics](#phonotactics)
+    - [most complex onsets](#most-complex-onsets)
+  - [Phonotactics and syllabification](#phonotactics-and-syllabification)
+  - [syllabification algorithm](#syllabification-algorithm)
 
 # week 1 lecture 3 notes
 
