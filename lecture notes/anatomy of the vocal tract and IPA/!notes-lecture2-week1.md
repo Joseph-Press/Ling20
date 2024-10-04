@@ -218,7 +218,7 @@ w the lips
 
 #### __alveolar stop examples__ 
 
-[- t] alveolar, voiceless, oral “**t**an”
+- [t] alveolar, voiceless, oral “**t**an”
 
 - [d] alveolar, voiced, oral “**D**an”
 
@@ -234,7 +234,7 @@ w the lips
 
 - [ɡ] velar, voiced, oral “**g**et”
 
-- ŋ] velar, voiced, nasal “si**ng**”
+- [ŋ] velar, voiced, nasal “si**ng**”
 
 #### __glottal stops__
 - [ʔ] glottal, voiceless, oral uh- oh, Hawai'i
