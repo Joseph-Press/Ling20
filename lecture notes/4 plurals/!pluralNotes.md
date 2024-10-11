@@ -1,4 +1,23 @@
 # plural
+- [plural](#plural)
+  - [refresher](#refresher)
+    - [new type of rule](#new-type-of-rule)
+  - [wug](#wug)
+    - [examples](#examples)
+  - [complemantary distribution](#complemantary-distribution)
+  - [good and bad codas in english](#good-and-bad-codas-in-english)
+  - [constraint on english codas](#constraint-on-english-codas)
+    - [generalization](#generalization)
+    - [underlying form](#underlying-form)
+  - [notation](#notation)
+    - [plural \[z\]](#plural-z)
+    - [why not /s/?](#why-not-s)
+      - [example](#example)
+        - [advanced topic](#advanced-topic)
+  - [\[i̵z\]](#i̵z)
+    - [more impossible codas](#more-impossible-codas)
+      - [second coda constraint](#second-coda-constraint)
+  - [Where does \[i̵z\] occur?](#where-does-i̵z-occur)
 
 ## refresher
 We have seen two interconnected parts of language:
