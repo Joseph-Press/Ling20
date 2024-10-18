@@ -17,6 +17,7 @@
   - [Allophones of different Phonemes](#allophones-of-different-phonemes-1)
   - [minimal pair](#minimal-pair)
     - [exmaple](#exmaple)
+      - [another example](#another-example)
 
 # plural review
 fill in after class
@@ -202,3 +203,42 @@ Minimal pairs:
 
 Occurrence of [d] vs. [ð] is not predictable.
 [d] and [ð] are allophones of different phonemes in English.
+
+---
+Lecture 6:
+
+'#' means beginning of a word
+
+[ð]: after vowels
+
+[d̪]: after consonants
+and silence (#)
+
+
+Formal rule notation:
+/d̪/ → [ð] / [vowel]__
+
+if it was /d̪/ → [ð] /__[vowel] it would mean that the sound change happens before a vowel
+
+
+#### another example
+
+Underlying form / phoneme:
+- /b/
+
+ Phonotactic constraint:
+- [vowel][b]
+
+Rule:
+- Change /b/ to [β] if it follows a vowel.
+  
+  
+Formal rule notation:
+- /b/ → [β] / [vowel]
+
+in the / / you wnat to put the simplest features in the set of sounds youre trying to describe. 
+
+for the [ ] ou want to describe what's actually changing. only thing thats changing is manner of articualtion in our espanish example.
+
+just want the smallest number of / / ones to make the correect set 
+
