@@ -1,5 +1,15 @@
 # Stress and Flapping
 
+- [Stress and Flapping](#stress-and-flapping)
+- [Stress](#stress)
+  - [primary and secondary stress](#primary-and-secondary-stress)
+    - [examples](#examples)
+  - [Stress-conditioned allophony](#stress-conditioned-allophony)
+  - [Vowel reduction](#vowel-reduction)
+      - [Vowel reduction examples](#vowel-reduction-examples)
+    - [rule](#rule)
+- [Flapping](#flapping)
+  - [t/d allophones](#td-allophones)
 
 some phonological properties pertain to syllables rather than segmentals (ie sounds)
 
@@ -74,3 +84,34 @@ in features /+ vowel - stress/ -> / -low
 
 ![alt text](vowelAllophones.png)
 
+
+# Flapping
+
+• In some cases, [d] or [t] will become a [ɾ] in casual speech:
+
+[sɪt] ‘sit’ [sɪɾi̵ɹ] ‘sitter’
+
+[spɑt] ‘spot’ [spɑɾi] ‘spotty’
+
+[mæd] ‘mad’ [mæɾi̵ɹ] ‘madder’
+
+[dɑɹk] ‘dark’ [tʰæp] ‘tap’
+
+First stab:
+[t] and [d] are changed to [ɾ] between vowels.
+
+Flapping in English:
+
+Change [d] and [t] to [ɾ] if it is preceded and followed by a
+vowel *AND* the [d] or [t] occurs in an unstressed syllable
+
+In Features:
+Change [alveolar, plosive] to [voiced, flap] if it is preceded
+and followed by a vowel AND the [alveolar, plosive] occurs
+in an unstressed syllable.
+
+![alt text](flappingFeatures.png)
+
+## t/d allophones
+
+![alt text](image.png)
