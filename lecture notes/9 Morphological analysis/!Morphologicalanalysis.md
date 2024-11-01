@@ -19,7 +19,9 @@
       - [crazy example](#crazy-example)
   - [Infixation](#infixation)
   - [Circumfixes](#circumfixes)
+- [discussion notes](#discussion-notes)
   - [RHHR](#rhhr)
+      - [HW NOTES/TIPS](#hw-notestips)
 
 For each morpheme, a speaker has memorized:
 1. Phonemic representation
@@ -247,7 +249,8 @@ if thing that looks like a prefix and like an affix cannot be separated
 em-bold-en, en-light-en
 
 
-
+___
+# discussion notes 
 ## RHHR 
 
 right hand head rule?
@@ -262,4 +265,50 @@ less adj
 
 ness is a noun
 
+the head is the one on the right, and gives the part of speech
+
+
+example,carelessness nes is a noun , less ness can't be combined, so its careless, (verb + adj = adj on right) + noun on right = noun
+
+disapproved - dis + approve = verb 
+
+disapprov + ed = verb
+f
+![alt text](inClassExample.png)
+
+
+unrefillable
+
+#### HW NOTES/TIPS
+
+15 morphimes in q1
+
+maŋu te? ?une - child walked
+
+maŋu te? yomo - woman walked
+
+
+pənta?m - men
+
+man - pən
+
+mother 
+
+child - ?une
+
+woman 
+
+walk
+
+come
+
+plural - ta?m (men)
+
+present
+
+past 
+
+like
+
+far
 
