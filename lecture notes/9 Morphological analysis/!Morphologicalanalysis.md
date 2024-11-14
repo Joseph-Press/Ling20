@@ -19,6 +19,8 @@
       - [crazy example](#crazy-example)
   - [Infixation](#infixation)
   - [Circumfixes](#circumfixes)
+- [post midterm notes on morphological analysis](#post-midterm-notes-on-morphological-analysis)
+    - [Right-Hand Head Rule: (final)](#right-hand-head-rule-final)
 - [discussion notes](#discussion-notes)
   - [RHHR](#rhhr)
       - [HW NOTES/TIPS](#hw-notestips)
@@ -248,6 +250,59 @@ if thing that looks like a prefix and like an affix cannot be separated
 • English:
 em-bold-en, en-light-en
 
+
+# post midterm notes on morphological analysis
+
+Affixation has :
+Prefixation
+Infixation
+Suffixation
+Circumfixation
+
+various parts of speech can be compounded
+
+Various parts of speech can be combined as compounds.
+1. N + N = N ([dɑl] + [h͡aws])
+2. N + V = V ([bi̵ɹd] + [wɑtʃ])
+3. A + V = V ([dʌbl̩] + [bʊk])
+4. A + N = N ([blæk] + [bɔɹd])
+5. V + N = N ([sp͡ɔȷl] + [spɔɹt])
+6. A + A = A ([blu] + [gɹin])
+
+
+English suffixes:
+- V + /i̵ɹ/ = N
+- V + /mɛnt/ = N
+- V + /əbl̩/ = A
+- A + /nɛs/ = N
+- A + /ən/ = V
+- N + /lɛs/ = A
+- N + /fʊl/ = A
+- N + /z/ = N
+- V + /d/ = V
+
+English prefixes:
+- /ɹi/ + V = V
+- /ʌn/ + V = V
+- /ʌn/ + A = A
+- /dɪs/ + V = V
+
+Pattern:
+• Prefixes never change the category.
+• Suffixes sometimes change the category.
+
+Consequence:
+Affixes have a category, just like free morphemes.
+- [i̵ɹ] Noun “one who does X”
+- [mɛnt] Noun “action/result of X”
+- [əbl̩] Adjective “able to be Xed”
+- [nɛs] Noun “state of being X”
+- [ən] Verb “make/become X”
+
+
+### Right-Hand Head Rule: (final)
+In English, the head of a morphologically complex
+expression is the right-most morpheme.
 
 ___
 # discussion notes 
